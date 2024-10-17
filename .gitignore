@@ -1,0 +1,6 @@
+# 注释 - 将被git忽略
+# 忽略MyOS文件夹内的全部文件
+MyOS/  
+# 忽略这些文件
+dingst.vhd  
+dd.exe
